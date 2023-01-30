@@ -146,4 +146,4 @@ Publish the website in the given URL.
 ![VALIDATOR](Screenshot_20230130_091010.png)
 
 ## RESULT:
-
+Thus we designed a web application for a standard calculator.
